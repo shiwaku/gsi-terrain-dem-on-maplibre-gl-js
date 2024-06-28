@@ -1,6 +1,6 @@
 # gsi-terrain-dem-on-maplibre-gl-js-demo
 ## Public Website
-https://shi-works.github.io/gsi-terrain-dem-on-maplibre-gl-js-demo/
+https://shiwaku.github.io/gsi-terrain-dem-on-maplibre-gl-js-demo/
 
 ## 標高タイルをTerrainRGBに変換するモジュールの使い方
 - index.htmlのheadに変換モジュール(maplibre-gl-gsi-terrain-fast-png.js)の読み込みを記述します。
