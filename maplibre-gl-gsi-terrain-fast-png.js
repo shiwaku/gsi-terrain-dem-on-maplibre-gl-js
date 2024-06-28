@@ -18,7 +18,7 @@ const gsidem2terrainrgb = (r, g, b) => {
     }
 
     // 地形の高さに基準値を加算し、さらにスケーリング
-    height += 100000;
+    height += 10000;
     height *= 10;
 
     // 新たなRGB値を計算
